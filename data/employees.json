@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "name": "Sushant",
+    "email": "sushant@gmail.com",
+    "department": "IT",
+    "salary": 90000.0
+  },
+  {
+    "id": 2,
+    "name": "Sujal",
+    "email": "sujal@gmail.com",
+    "department": "HR",
+    "salary": 40000.0
+  },
+  {
+    "id": 3,
+    "name": "Nilesh",
+    "email": "nilesh@gmail.com",
+    "department": "HR",
+    "salary": 40000.0
+  },
+  {
+    "id": 4,
+    "name": "Om",
+    "email": "om@gmail.com",
+    "department": "IT",
+    "salary": 120000.0
+  },
+  {
+    "id": 5,
+    "name": "Shubham",
+    "email": "shubh@gmail.com",
+    "department": "IT",
+    "salary": 150000.0
+  },
+  {
+    "id": 6,
+    "name": "Komala",
+    "email": "komalta@gmail.com",
+    "department": "HR",
+    "salary": 100000.0
+  },
+  {
+    "id": 7,
+    "name": "Abhishek",
+    "email": "abhishek@gmail.com",
+    "department": "HR",
+    "salary": 70000.0
+  },
+  {
+    "id": 8,
+    "name": "Ajeet",
+    "email": "ajeet@gmail.com",
+    "department": "IT",
+    "salary": 130000.0
+  },
+  {
+    "id": 9,
+    "name": "Nilima",
+    "email": "nilima@gmail.com",
+    "department": "HR",
+    "salary": 50000.0
+  },
+  {
+    "id": 10,
+    "name": "Sohil",
+    "email": "sohil@gmail.com",
+    "department": "HR",
+    "salary": 40000.0
+  },
+  {
+    "id": 11,
+    "name": "Sahil",
+    "email": "sahil@gmail.com",
+    "department": "finance",
+    "salary": 25000.0
+  },
+  {
+    "id": 12,
+    "name": "Rohan",
+    "email": "rohan@gmail.com",
+    "department": "finance",
+    "salary": 50000.0
+  },
+  {
+    "id": 13,
+    "name": "Vivek",
+    "email": "vivek@gmail.com",
+    "department": "finance",
+    "salary": 55000.0
+  },
+  {
+    "id": 14,
+    "name": "Ganesh",
+    "email": "ganesh@gmail.com",
+    "department": "finance",
+    "salary": 40000.0
+  },
+  {
+    "id": 15,
+    "name": "Rishabh",
+    "email": "rishabh",
+    "department": "finance",
+    "salary": 50000.0
+  }
+]
