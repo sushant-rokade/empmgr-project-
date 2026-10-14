@@ -1,6 +1,6 @@
 from .storage import load_employees, save_employees
 from .models import add_employee
-from .validator import parse_salary
+from .validator import parse_salary, check_email
 from rich.console import Console 
 from rich.table import Table 
   
