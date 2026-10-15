@@ -3,9 +3,10 @@
     ii. The project is to manage employee and data is in .json format.
 
 2. For running the project
-    i. Now we are in our project folder which is "empmgr-project" and when we are trying run out project file with "python empmgr/cli.py". We are getting an error as "ImportError : attempted relative import with no known parent package".
-    ii. Here we didn't specify the parent folder for imported modules for example "from .validators import parse_salary" which is relative imoorts, so here .validators need the parent directory or package to run.
-    iii. And when we are trying to run our code as "python -m empmgr.cli", it is working because we are specifying parent package as "empmgr".
+    i. First clone it and after that create virtual environment and run command as "pip install -r requirements.txt", because I stored required library there.
+    ii.. Now we are in our project folder which is "empmgr-project" and when we are trying run out project file with "python empmgr/cli.py". We are getting an error as "ImportError : attempted relative import with no known parent package".
+    iii. Here we didn't specify the parent folder for imported modules for example "from .validators import parse_salary" which is relative imports, so here .validators need the parent directory or package to run.
+    iv. And when we are trying to run our code as "python -m empmgr.cli", it is working because we are specifying parent package as "empmgr".
 
 3. For setting virtual environment
     i. To manage the versions of libraries for each different project we have virtual environment
@@ -24,3 +25,6 @@
         * aa1207f Add storage module with JSON load/save
         * 653387e models for handling employee operations
         * 42c919b first commit
+
+5.  Peer test: Suraj Kohle
+    The code run on first. 
